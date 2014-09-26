@@ -1,0 +1,17 @@
+white 1 sck
+black 11 miso
+blue 16 reset
+light green 18 gnd
+deep green 2 mosi
+
+
+sck  white
+miso black
+mosi deep green
+
+1.install win avr  from  mc tutorial directory. avr studio from already burned folder.
+
+2.install give-io.bat from avr bin folder.
+
+3.select microcontroller from editor and burn o mat
+4.selet programmer dapa and port lpt1
